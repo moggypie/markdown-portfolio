@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+:smiley:
+:heart_eyes_cat:
+:dog:
+:hamster:
+:paw_prints:
+
+
+
